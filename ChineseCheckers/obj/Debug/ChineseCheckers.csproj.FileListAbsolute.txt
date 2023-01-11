@@ -1,0 +1,12 @@
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\obj\Debug\ChineseCheckers.csproj.AssemblyReference.cache
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\obj\Debug\ChineseCheckers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\obj\Debug\ChineseCheckers.MenuForm.resources
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\obj\Debug\ChineseCheckers.Properties.Resources.resources
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\obj\Debug\ChineseCheckers.GameForm.resources
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\obj\Debug\ChineseCheckers.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\obj\Debug\ChineseCheckers.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\bin\Debug\ChineseCheckers.exe.config
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\bin\Debug\ChineseCheckers.exe
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\bin\Debug\ChineseCheckers.pdb
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\obj\Debug\ChineseCheckers.exe
+C:\Users\Ben\source\repos\ChineseCheckers\ChineseCheckers\obj\Debug\ChineseCheckers.pdb
